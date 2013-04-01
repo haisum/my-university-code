@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1300465955035</id>
+  <name>classTest</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Haisum/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Haisum/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///D|/throw%20shoe/project/level1.fla</defaultApp>
+  <rootURI>file:///D|/throw shoe/project/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="level1.fla">file:///D|/throw shoe/project/level1.fla</uri>
+    <uri label="ProfilePicture.as">file:///D|/throw shoe/project/com/jeuxvalley/beatAFriend/ProfilePicture.as</uri>
+    <uri label="classTest.fla">file:///D|/throw shoe/project/classTest.fla</uri>
+    <uri label="ProfilePictureMotion.as">file:///D|/throw shoe/project/com/jeuxvalley/beatAFriend/level1/ProfilePictureMotion.as</uri>
+    <uri label="HitDetector.as">file:///D|/throw shoe/project/com/jeuxvalley/HitDetector.as</uri>
+    <uri label="PictureEvent.as">file:///D|/throw shoe/project/com/jeuxvalley/PictureEvent.as</uri>
+    <uri label="PictureLoader.as">file:///D|/throw shoe/project/com/jeuxvalley/PictureLoader.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

@@ -1,0 +1,146 @@
+.smallDetails {
+float:left;
+width:350px;
+border-right:1px dashed #ccc;
+}
+
+.detailBox {
+clear:left;
+margin:10px;
+}
+.tips{
+	/*margin-left:10px;
+	padding:5px;
+	margin-bottom:10px;
+	color: #FD9500;
+	background-color: #F9E0C5;
+	border: 1px solid #FD9500;
+	float:left;*/
+}
+.tips:hover, .selectedTip{
+	/*color: white;
+	background-color: #FD9500;
+	border: 1px solid #CCC;*/
+}
+.categoryHeading{
+color: #F07622;
+font-size: 22px!important;
+float: left;
+width: 150px;
+clear: left;
+padding-left: 10px;
+padding-top: 0px;
+}
+.detailBox strong {
+margin-right:10px;
+width:125px;
+float:left;
+}
+
+.detailBox span {
+float:left;
+}
+
+.additionalInfo {
+float: right;
+width: 517px;
+margin: 10px;
+}
+
+.additionalInfo img {
+float:right;
+margin:0 5px;
+}
+
+.bidWrapper {
+background-color:#F6F6F6;
+float:left;
+margin-top:20px;
+}
+
+.bidCategories {
+clear:both;
+padding-top:15px;
+border-top:1px dashed #ccc;
+}
+.bidNowButton{
+clear: both;
+float: left;
+margin-left: 10px;
+margin-bottom: 10px;
+}
+.tooltip {
+	display:none;
+	background:transparent url(../img/black_arrow.png);
+	font-size:11px;
+	height:70px;
+	width:160px;
+	padding:25px;
+	color:#fff;
+	font-weight:bold;	
+}
+#bidAmountInput form input{
+	margin-left:10px;
+	width:80px;
+	float:left;
+}
+.notice{
+	padding: 10px 10px 10px 30px;
+	background: #FFC;
+	border: 1px solid #FECD67;
+	color: black;
+	text-align: left;
+	clear:both;
+	margin:10px 10px;
+}
+#bidAmountInput form label{
+	width:100px;
+	float:left;
+}
+#bidAmountInput form label.pm{
+	margin-top:20px;
+}
+#bidAmountInput form textarea{		
+	margin-left:10px;
+	margin-top:10px;
+	float:left;
+	clear:left;
+	width:90%;
+	height:100px;
+}
+.amountWrapper{
+	float:left;	
+	margin-left:15px;	
+	margin-top:10px;
+}
+.separatorHr{
+width: 97%;
+float: left;
+clear: both;
+margin-left: 10px;
+margin-top: 20px;
+}
+.generateTotal{
+padding:2px;
+float:left;
+margin-left:10px;
+}
+.inputContainer{
+	float:left;
+	clear:left;
+	margin-top:20px;
+}
+.inputContainer label{
+	float:left;
+	width:70px;
+	margin-right:10px;
+	text-align:right;
+}
+.inputContainer input{
+	float:left;
+}
+.inputContainer textarea{
+	float:left;
+	width: 400px;
+	height:110px;
+}

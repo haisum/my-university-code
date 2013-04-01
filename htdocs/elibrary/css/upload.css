@@ -1,0 +1,144 @@
+/* v1.0 | 20080212 */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	font-family:Arial;
+}
+body {
+	line-height: 1;
+}
+blockquote, q {
+	quotes: none;
+}
+li , ol
+{
+    list-style: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.heading
+{
+    font-family: Tahoma , Arial;
+    font-size: 14px;
+    font-variant: small-caps;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.flashMessage{
+    font-size:12px; margin-top: 10px; font-style: italic;
+}
+.formInput{
+    width:400px;font-family: Tahoma, Arial;margin-top: 20px;font-style: normal;
+}
+.formInput span{
+    float:left; width: 250px;font-family: Tahoma, Arial; font-size: 14px;margin-top: 10px;margin-left:20px;
+}
+legend
+{
+    font-style: italic;font-size: 12px;
+}
+label
+{
+    font-family: Tahoma, Arial;font-size:12px;float:left;clear:left;width:70px;padding-top: 3px;margin-top: 10px;
+}
+.bookLabel{
+    width:100px;
+    margin-top:8px;
+}
+.formInput input,.formInput  select
+{
+    float:left; width: 250px;font-family: Tahoma, Arial; font-size: 14px;margin-top: 10px;margin-left:20px;
+}
+.flashObj
+{
+    margin:20px;font-family: Tahoma, Arial;
+}
+.forIE{
+    font-family: Tahoma, Arial;font-size: 14px; font-style: italic;
+}
+.links
+{
+    margin-top:20px;font-family: Tahoma, Arial;
+}
+.UploadMessage
+{
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.registerButton
+{
+    margin-left: 10px;
+}
+.registerButtonA , .DownloadButton
+{
+        text-decoration:none;
+        color: black;
+        vertical-align:middle;
+        float:left;
+        display:inline;
+	width:110px;
+	height:25px;
+        font-size: 16px;
+        border:2px solid #EFEFEF;
+        margin-left: 10px;
+        border-bottom-width: 4px;
+        border-right-width: 4px;
+        margin-top: 10px;
+}
+
+.registerButtonA:hover , .DownloadButton:hover
+{
+        text-decoration: underline;
+        border-top-width: 4px;
+        border-left-width: 4px;
+        border-bottom-width: 2px;
+        border-right-width: 2px;
+}
+.DownloadButton
+{
+        padding:7px 0px 0px 8px;
+        margin-left:35px;font-weight:bold; width:130px;
+}
+.registerButtonA
+{
+        padding:7px 0px 0px 50px;
+}

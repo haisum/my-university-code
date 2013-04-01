@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* Global styling */
+body {
+	color:#494A4A;
+	font-family:Arial;
+}
+/* text styling */
+h1 	{font-weight:bold;font-size:30px;margin:10px 0px 5px 0px;}
+h2 	{font-weight:bold;font-size:24px;margin:25px 0px 10px 0px;}
+h3 	{font-weight:bold;font-size:20px;margin:25px 0px 10px 0px;}
+p	{margin-bottom:10px;}
+acronym {
+	cursor:help;
+}
+/* Color classes */
+.yellow {
+	background:#FFB200;
+	color:#fff;
+	padding:0px 3px 0px 3px;
+}
+.green {
+	background:#37C527;
+	color:#fff;
+	padding:0px 3px 0px 3px;
+}
+.blue {
+	background:#5C88BC;
+	color:#fff;
+	padding:0px 3px 0px 3px;
+}
+.brown {
+	background:#BD904B;
+	color:#fff;
+	padding:0px 3px 0px 3px;
+}
+.pink {
+	background:#DF59BD;
+	color:#fff;
+	padding:0px 3px 0px 3px;
+}
+/* Messages */
+#error-message {
+	background:#EB3838;
+	color:#fff;
+	margin-bottom:10px;
+	padding:10px 10px 3px 10px;
+}
+#succes-message {
+	background:#39B93C;
+	color:#fff;
+	margin-bottom:10px;
+	padding:10px 10px 3px 10px;
+}
+#warning-message {
+	background:#FFD413;
+	color:#fff;
+	margin-bottom:10px;
+	padding:10px 10px 3px 10px;
+}
+/* The container itself */
+#container {
+	height:auto;
+	margin:0 auto;
+	width:960px;
+}
+/* Top */
+#header {
+	margin-bottom:30px;
+}
+/* Middle */
+#content {
+	margin-bottom:30px;
+	width:100%;
+}
+#content p {
+	font-size:16px;
+}
+#content #generate-link {
+	background:url(../images/link_go.png) no-repeat top left;
+	color:#5C88BC;
+	padding-left:20px;
+	text-decoration:none;
+}
+#content #generate-link:hover {
+	text-decoration:underline;
+}
+/* Bottom */
+#footer {
+	font-size:14px;
+	text-align:center;
+	width:100%;
+}

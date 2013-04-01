@@ -1,0 +1,149 @@
+.wtable {font: 100% "Arial", "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;padding: 0; margin: 0; border-collapse: collapse; color: #333; background: #F3F5F7; float:left; clear:both; width:700px;margin-top:20px;}
+
+.wtable-a {color: #3A4856; text-decoration: none; border-bottom: 1px solid #C6C8CB;}  
+
+
+.wtable-a:hover {color: #000;}  
+
+.wtable caption {text-align: left; text-transform: uppercase;  padding-bottom: 10px; font: 200% "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;}
+
+.wtable thead th {background: #55B4FD; padding: 15px 10px; color: #fff; text-align: left; font-weight: normal;}
+
+.wtable tbody, .wtable thead {border-left: 1px solid #EAECEE; border-right: 1px solid #EAECEE;}
+
+.wtable tbody {border-bottom: 1px solid #EAECEE;}
+                      
+.wtable tbody td, .wtable tbody th {padding: 10px; background: url("../img/td_back.gif") repeat-x; text-align: left;vertical-align:middle;}
+
+.wtable tbody tr {background: #F3F5F7;}
+
+.wtable tbody tr.odd {background: #F0F2F4;}
+
+.wtable tbody  tr:hover {color: #111;}
+.wtable tfoot td, .wtable tfoot th, .wtable tfoot tr {text-align: left; font: 120%  "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif; text-transform: uppercase; background: #fff; padding: 10px;}
+.etable{width:700px;}
+.text{
+	width:200px;
+	height:22px;
+}
+.etable label{
+	margin-left:10px;
+}
+
+.uiButton, .uiButtonSuppressed:active, .uiButtonSuppressed:focus, .uiButtonSuppressed:hover {
+background-image: url(../img/_IKHHfAgFQe.png);
+background-repeat: no-repeat;
+background-position: 0 -49px;
+background-color: #EEE;
+border: 1px solid #999;
+border-bottom-color: #888;
+-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+cursor: pointer;
+display: -moz-inline-box;
+display: inline-block;
+font-size: 11px;
+font-weight: bold;
+line-height: normal !important;
+padding: 2px 6px;
+text-align: center;
+text-decoration: none;
+vertical-align: top;
+white-space: nowrap;
+}
+.uiButton input {
+background: none;
+border: 0;
+color: #333;
+cursor: pointer;
+display: -moz-inline-box;
+display: inline-block;
+font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+font-size: 11px;
+font-weight: bold;
+margin: 0;
+outline: none;
+padding: 1px 0 2px;
+white-space: nowrap;
+}
+.uiButtonConfirm {
+background-image: url(../img/_IKHHfAgFQe.png);
+background-repeat: no-repeat;
+background-position: 0 -98px;
+background-color: #5B74A8;
+border-color: #29447E #29447E #1A356E;
+}
+#rightCol ul{
+	padding:0px;	
+}
+#rightCol ul li{
+	list-style:none;
+}
+.budgettxt{
+	float:left;
+	margin-top:5px;
+}
+.budgetinput{
+	float:left;
+	margin-left:5px;
+	width:	100px;
+}
+.additionalInformation{
+	width:400px;
+	height:150px;
+	padding:10px;
+}
+.weddingNotice{
+	margin:10px auto;
+	width:100%;
+}
+.closeLink{
+	float:right;
+	margin-right:5px;	
+}
+.tabs{
+	float:left;
+}
+.input-container{
+	float:left;
+	clear:left;
+	margin-top:15px;
+}
+.input-container label, .input-container input, .input-container textarea {
+	margin-left:10px;
+	float:left;
+}
+.numberOnly{
+	width:60px;
+}
+.columnName{
+	font-weight:bold;
+	font-style:italic;
+}
+.input-container textarea{
+	width:200px;
+	height:110px;
+}
+#tabs{
+float: left;
+}
+.sortLinks{
+	float:right;
+}
+.ztable td{
+	padding: 10px 0px;
+	vertical-align:middle;
+	width: 80px;
+}
+.reqlabel{
+float:left;width:150px;
+}
+.reqblock{
+float:left;margin-top:20px;
+clear:left;
+}
+.reqcontainer{
+	width:570px;float:left;
+}
+.reqval{
+float:left;margin-left:10px;font-style:italic;
+}

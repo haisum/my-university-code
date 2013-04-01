@@ -1,0 +1,172 @@
+[27-Jul-2011 05:34:15] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/index.php on line 552
+[27-Jul-2011 05:34:15] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/index.php on line 552
+[27-Jul-2011 05:34:15] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/index.php on line 552
+[27-Jul-2011 05:34:19] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/account.php on line 393
+[27-Jul-2011 05:34:19] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/account.php on line 393
+[27-Jul-2011 05:34:19] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/account.php on line 393
+[27-Jul-2011 05:34:23] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/help.php on line 319
+[27-Jul-2011 05:34:23] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/help.php on line 319
+[27-Jul-2011 05:34:23] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/help.php on line 319
+[27-Jul-2011 05:34:32] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/login.php on line 293
+[27-Jul-2011 05:34:32] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/login.php on line 293
+[27-Jul-2011 05:34:32] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/login.php on line 293
+[27-Jul-2011 16:38:15] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/index.php on line 552
+[27-Jul-2011 16:38:15] PHP Warning:  require(includes/footer.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/index.php on line 552
+[27-Jul-2011 16:38:15] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/footer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/index.php on line 552
+[28-Jul-2011 04:43:35] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/demoserv/public_html/weddingprice/login.php on line 139
+[28-Jul-2011 04:45:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/demoserv/public_html/weddingprice/login.php on line 139
+[28-Jul-2011 04:48:16] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/demoserv/public_html/weddingprice/login.php on line 139
+[28-Jul-2011 04:57:22] PHP Fatal error:  Class 'Random' not found in /home/demoserv/public_html/weddingprice/login.php on line 141
+[28-Jul-2011 06:17:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'HOST' (1) in /home/demoserv/public_html/weddingprice/classes/database/objects/class.database.php on line 21
+[28-Jul-2011 06:19:23] PHP Parse error:  syntax error, unexpected T_CLASS in /home/demoserv/public_html/weddingprice/classes/database/objects/class.database.php on line 10
+[28-Jul-2011 06:26:20] PHP Warning:  require_once(../../../config/config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/classes/database/objects/class.database.php on line 15
+[28-Jul-2011 06:26:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../../config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/classes/database/objects/class.database.php on line 15
+[28-Jul-2011 07:04:43] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'demoserv'@'localhost' (using password: NO) in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 55
+[28-Jul-2011 07:04:43] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 55
+[28-Jul-2011 07:17:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/demoserv/public_html/weddingprice/classes/Random.php:14) in /home/demoserv/public_html/weddingprice/login.php on line 10
+[28-Jul-2011 07:42:09] PHP Parse error:  syntax error, unexpected '}' in /home/demoserv/public_html/weddingprice/login.php on line 12
+[28-Jul-2011 09:33:03] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/demoserv/public_html/weddingprice/logout.php on line 6
+[28-Jul-2011 09:33:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/demoserv/public_html/weddingprice/logout.php:6) in /home/demoserv/public_html/weddingprice/logout.php on line 7
+[31-Jul-2011 13:45:38] PHP Fatal error:  Class 'Random' not found in /home/demoserv/public_html/weddingprice/forgot-password.php on line 129
+[31-Jul-2011 13:46:51] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/demoserv/public_html/weddingprice/classes/Mail.php on line 3
+[01-Aug-2011 07:39:01] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/demoserv/public_html/weddingprice/reset-password.php on line 16
+[01-Aug-2011 08:37:48] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'database/objects/class.emailtemplate.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/forgot-password.php on line 134
+[01-Aug-2011 08:38:36] PHP Catchable fatal error:  Object of class Cipher could not be converted to string in /home/demoserv/public_html/weddingprice/classes/Mail.php on line 4
+[01-Aug-2011 08:46:45] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/demoserv/public_html/weddingprice/reset-password.php on line 16
+[01-Aug-2011 08:53:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/demoserv/public_html/weddingprice/reset-password.php on line 20
+[01-Aug-2011 08:54:57] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/database/objects/classes.database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/reset-password.php on line 3
+[01-Aug-2011 08:55:27] PHP Fatal error:  Call to undefined function  isssset() in /home/demoserv/public_html/weddingprice/reset-password.php on line 5
+[02-Aug-2011 02:14:16] PHP Fatal error:  Call to undefined method Mail::Send() in /home/demoserv/public_html/weddingprice/login.php on line 177
+[02-Aug-2011 06:39:24] PHP Fatal error:  Class 'Database' not found in /home/demoserv/public_html/weddingprice/classes/database/objects/class.emailtemplate.php on line 130
+[03-Aug-2011 03:05:10] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/demoserv/public_html/weddingprice/config/config.php on line 24
+[04-Aug-2011 04:57:16] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/countrySelectOptions' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/register-supplier.php on line 135
+[04-Aug-2011 04:58:12] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/countrySelectOptions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/register-supplier.php on line 135
+[04-Aug-2011 04:58:19] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/countrySelectOptions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/register-supplier.php on line 135
+[04-Aug-2011 04:58:26] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/countrySelectOptions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/register-buyer.php on line 135
+[04-Aug-2011 06:01:46] PHP Parse error:  syntax error, unexpected '=' in /home/demoserv/public_html/weddingprice/register-supplier.php on line 8
+[04-Aug-2011 06:08:53] PHP Fatal error:  Call to undefined function  trime() in /home/demoserv/public_html/weddingprice/register-supplier.php on line 6
+[04-Aug-2011 06:38:12] PHP Parse error:  syntax error, unexpected '{' in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 06:42:06] PHP Parse error:  syntax error, unexpected '{' in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 06:43:05] PHP Parse error:  syntax error, unexpected '{' in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 06:43:06] PHP Parse error:  syntax error, unexpected '{' in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 06:43:08] PHP Parse error:  syntax error, unexpected '{' in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 06:43:15] PHP Parse error:  syntax error, unexpected '{' in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 06:43:15] PHP Parse error:  syntax error, unexpected '{' in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 06:44:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/demoserv/public_html/weddingprice/includes/secureSupplierBuyer.php on line 1
+[04-Aug-2011 07:09:52] PHP Fatal error:  Call to undefined method Validator::isEmpty() in /home/demoserv/public_html/weddingprice/login.php on line 150
+[04-Aug-2011 07:13:13] PHP Fatal error:  Call to undefined method Mail::Send() in /home/demoserv/public_html/weddingprice/login.php on line 177
+[07-Aug-2011 08:34:02] PHP Parse error:  syntax error, unexpected '!' in /home/demoserv/public_html/weddingprice/register-supplier.php on line 22
+[08-Aug-2011 05:27:54] PHP Catchable fatal error:  Object of class User could not be converted to string in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 135
+[08-Aug-2011 05:54:47] PHP Catchable fatal error:  Object of class User could not be converted to string in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 135
+[08-Aug-2011 05:56:51] PHP Catchable fatal error:  Object of class User could not be converted to string in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 135
+[08-Aug-2011 06:03:13] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/demoserv/public_html/weddingprice/change-password.php on line 20
+[08-Aug-2011 06:05:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/demoserv/public_html/weddingprice/change-password.php on line 21
+[08-Aug-2011 06:05:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/demoserv/public_html/weddingprice/change-password.php on line 21
+[08-Aug-2011 06:06:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/demoserv/public_html/weddingprice/change-password.php on line 21
+[08-Aug-2011 06:07:29] PHP Catchable fatal error:  Object of class __PHP_Incomplete_Class could not be converted to string in /home/demoserv/public_html/weddingprice/change-password.php on line 21
+[10-Aug-2011 05:10:54] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/demoserv/public_html/weddingprice/register-buyer.php on line 17
+[10-Aug-2011 05:11:21] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/demoserv/public_html/weddingprice/register-buyer.php on line 17
+[10-Aug-2011 05:12:08] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/demoserv/public_html/weddingprice/register-buyer.php on line 17
+[10-Aug-2011 05:12:34] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/demoserv/public_html/weddingprice/register-buyer.php on line 24
+[10-Aug-2011 05:12:50] PHP Parse error:  syntax error, unexpected '}' in /home/demoserv/public_html/weddingprice/register-buyer.php on line 26
+[10-Aug-2011 05:54:14] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/countryJSON.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/register-buyer.php on line 9
+[10-Aug-2011 13:21:53] PHP Parse error:  syntax error, unexpected ';' in /home/demoserv/public_html/weddingprice/supplier-account.php on line 374
+[10-Aug-2011 13:22:48] PHP Parse error:  syntax error, unexpected ';' in /home/demoserv/public_html/weddingprice/supplier-account.php on line 449
+[10-Aug-2011 13:23:21] PHP Parse error:  syntax error, unexpected ';' in /home/demoserv/public_html/weddingprice/supplier-account.php on line 507
+[10-Aug-2011 13:23:51] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/demoserv/public_html/weddingprice/supplier-account.php on line 554
+[10-Aug-2011 13:26:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/database/object/class.database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/supplier-account.php on line 7
+[11-Aug-2011 03:46:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/includes/supplierData.php on line 2
+[11-Aug-2011 03:50:26] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/supplierDataRequired.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/includes/supplierData.php on line 5
+[11-Aug-2011 03:51:18] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/supplierDataRequired.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/includes/supplierData.php on line 5
+[12-Aug-2011 18:50:18] PHP Notice:  A session had already been started - ignoring session_start() in /home/demoserv/public_html/weddingprice/config/config.php on line 4
+[12-Aug-2011 18:50:18] PHP Notice:  Constant URL already defined in /home/demoserv/public_html/weddingprice/config/config.php on line 15
+[12-Aug-2011 18:50:18] PHP Notice:  Constant DBNAME already defined in /home/demoserv/public_html/weddingprice/config/config.php on line 16
+[12-Aug-2011 18:50:18] PHP Notice:  Constant HOST already defined in /home/demoserv/public_html/weddingprice/config/config.php on line 17
+[12-Aug-2011 18:50:18] PHP Notice:  Constant USER already defined in /home/demoserv/public_html/weddingprice/config/config.php on line 18
+[12-Aug-2011 18:50:18] PHP Notice:  Constant PASSWORD already defined in /home/demoserv/public_html/weddingprice/config/config.php on line 19
+[12-Aug-2011 18:50:18] PHP Notice:  Constant ABSOLUTE_PATH already defined in /home/demoserv/public_html/weddingprice/config/config.php on line 20
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:50:18] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:51:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:42] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 18:55:55] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 66
+[12-Aug-2011 19:03:04] PHP Warning:  include_once(../configuration.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 2
+[12-Aug-2011 19:03:04] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../configuration.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 2
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 19:03:05] PHP Notice:  Undefined index:  configuration in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php on line 67
+[12-Aug-2011 20:02:50] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/demoserv/public_html/weddingprice/buyer-account.php on line 1
+[13-Aug-2011 04:10:01] PHP Fatal error:  Call to undefined method Mail::sendRegisterationEmail() in /home/demoserv/public_html/weddingprice/login.php on line 191
+[14-Aug-2011 17:19:21] PHP Fatal error:  Class 'Wedding' not found in /home/demoserv/public_html/weddingprice/includes/weddingData.php on line 8
+[14-Aug-2011 17:20:37] PHP Fatal error:  Class 'Wedding' not found in /home/demoserv/public_html/weddingprice/includes/weddingData.php on line 8
+[14-Aug-2011 17:22:26] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../classes/database/objects/class.database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/includes/weddingDataRequired.php on line 3
+[14-Aug-2011 18:22:03] PHP Fatal error:  Cannot use object of type Wedding as array in /home/demoserv/public_html/weddingprice/my-weddings.php on line 92
+[14-Aug-2011 18:22:08] PHP Fatal error:  Cannot use object of type Wedding as array in /home/demoserv/public_html/weddingprice/my-weddings.php on line 92
+[15-Aug-2011 07:06:25] PHP Fatal error:  Cannot use string offset as an array in /home/demoserv/public_html/weddingprice/my-weddings.php on line 253
+[16-Aug-2011 07:41:11] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/demoserv/public_html/weddingprice/my-weddings.php on line 174
+[22-Aug-2011 07:02:53] PHP Parse error:  syntax error, unexpected T_ECHO in /home/demoserv/public_html/weddingprice/my-weddings.php on line 379
+[22-Aug-2011 07:05:02] PHP Parse error:  syntax error, unexpected T_ECHO in /home/demoserv/public_html/weddingprice/my-weddings.php on line 379
+[24-Aug-2011 04:09:13] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/demoserv/public_html/weddingprice/list-weddings.php on line 338
+[24-Aug-2011 04:09:13] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/demoserv/public_html/weddingprice/list-weddings.php on line 338
+[24-Aug-2011 05:08:41] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/weddingData.php?list=true' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/list-weddings.php on line 9
+[25-Aug-2011 12:07:56] PHP Parse error:  syntax error, unexpected T_ECHO in /home/demoserv/public_html/weddingprice/uploadify.php on line 34
+[06-Sep-2011 04:45:24] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/demoserv/public_html/weddingprice/includes/weddingData.php on line 83
+[06-Sep-2011 04:46:17] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/demoserv/public_html/weddingprice/includes/weddingData.php on line 83
+[06-Sep-2011 04:46:20] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/demoserv/public_html/weddingprice/includes/weddingData.php on line 83
+[06-Sep-2011 05:50:21] PHP Parse error:  syntax error, unexpected ';' in /home/demoserv/public_html/weddingprice/includes/my-weddings-list.php on line 30
+[08-Sep-2011 05:15:19] PHP Parse error:  syntax error, unexpected T_ISSET, expecting '(' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 27
+[08-Sep-2011 05:15:40] PHP Fatal error:  Call to undefined method Cipher::decode() in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 28
+[08-Sep-2011 07:28:36] PHP Fatal error:  Class 'GetListFromSQL' not found in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php(13) : eval()'d code on line 1
+[08-Sep-2011 07:31:34] PHP Fatal error:  Interface 'POG_Plugin' not found in /home/demoserv/public_html/weddingprice/classes/database/plugins/plugin.getlistfromsql.php on line 2
+[08-Sep-2011 07:36:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../../config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/classes/database/configuration.php on line 5
+[08-Sep-2011 07:37:06] PHP Fatal error:  Class 'GetListFromSQL' not found in /home/demoserv/public_html/weddingprice/classes/database/objects/class.pog_base.php(13) : eval()'d code on line 1
+[08-Sep-2011 07:37:50] PHP Fatal error:  Interface 'POG_Plugin' not found in /home/demoserv/public_html/weddingprice/classes/database/plugins/plugin.getlistfromsql.php on line 2
+[08-Sep-2011 07:38:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/database/plugins/plugin.IPlugin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 12
+[08-Sep-2011 07:39:22] PHP Fatal error:  Call to a member function pog_query() on a non-object in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 36
+[08-Sep-2011 07:50:13] PHP Parse error:  syntax error, unexpected '}' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 43
+[08-Sep-2011 07:53:56] PHP Parse error:  syntax error, unexpected '}' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 43
+[09-Sep-2011 08:59:24] PHP Parse error:  syntax error, unexpected ')' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 34
+[09-Sep-2011 08:59:54] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 40
+[09-Sep-2011 09:01:06] PHP Parse error:  syntax error, unexpected T_IS_NOT_EQUAL, expecting ',' or ')' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 198
+[09-Sep-2011 09:04:40] PHP Parse error:  syntax error, unexpected '}' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 215
+[12-Sep-2011 07:03:09] PHP Warning:  require_once(../config/config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/demoserv/public_html/weddingprice/try.php on line 2
+[12-Sep-2011 07:03:10] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../config/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoserv/public_html/weddingprice/try.php on line 2
+[12-Sep-2011 07:29:07] PHP Parse error:  syntax error, unexpected '<' in /home/demoserv/public_html/weddingprice/bid-wedding.php on line 80
+[12-Sep-2011 08:26:23] PHP Parse error:  syntax error, unexpected $end in /home/demoserv/public_html/weddingprice/includes/header.php on line 162

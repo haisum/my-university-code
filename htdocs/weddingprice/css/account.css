@@ -1,0 +1,514 @@
+.top-nav {
+}
+
+.content {
+margin-top: 17px;
+padding-top: 20px;
+border: 2px solid #55B4FD;
+background:none;
+float: left;
+}
+.help_contents{
+    margin-top: 0px;
+}
+#myqb-nav {
+display: block;
+width: 650px;
+height: 29px;
+margin: 20px 0 0 8px;
+padding-left: 16px;
+}
+.supplierInfoContainer{
+	border:2px solid #FD9500;
+	width: 680px;
+	margin-left: 28px;
+	-moz-border-radius: 16px;
+	border-radius: 16px;
+	border-top: 3px solid #FD9500;
+	padding-bottom:20px;
+}
+#myqb-nav li {
+float: left;
+margin-right: 7px;
+list-style:none;
+}
+#myqb-nav li a {
+margin-top: 4px;
+padding-left: 29px;
+float: left;
+display: block;
+height: 26px;
+background: url(../img/myQuibids-nav-bg.png) 0 0 no-repeat;
+}
+#myqb-nav li a span {
+padding-right: 29px;
+float: left;
+display: block;
+height: 26px;
+line-height: 26px;
+background: url(../img/myQuibids-nav-bg.png) top right no-repeat;
+color: #3E3E3E;
+}
+#myqb-nav li a.active {
+margin-top: 1px;
+padding-left: 22px;
+float: left;
+display: block;
+height: 29px;
+background: url(../img/myQuibids-nav-bg-active.png) 0 0 no-repeat;
+}
+#myqb-nav li a.active span {
+padding-right: 22px;
+float: left;
+display: block;
+height: 29px;
+line-height: 29px;
+background: url(../img/myQuibids-nav-bg-active.png) top right no-repeat;
+color: white;
+font-weight: bold;
+}
+#leftCol {
+float: left;
+width: 200px;
+}
+strong{
+    font-weight: bolder;
+}
+.aside {
+border: 1px solid #919191;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+margin-bottom: 20px;
+position: relative;
+}
+.aside h2 {
+font-size: 10px;
+font-weight: normal;
+border-bottom: 1px solid #919191;
+padding: 10px 10px 5px 10px;
+margin: 0;
+background: #F2F2F2 url(../img/side-heading.png) repeat-x;
+border-radius: 10px 10px 0 0;
+-moz-border-radius: 10px 10px 0 0;
+position: relative;
+color: #555;
+}
+.aside ul {
+padding: 10px;
+}
+.aside ul li a {
+border-bottom: 1px dotted #B7B7B7;
+color: #555;
+text-decoration: none;
+padding: 7px 15px 10px 15px;
+display: block;
+}
+.aside ul li a:hover {
+background: #F6F6F6 url(../img/side-arrow.png) no-repeat 5px 13px;
+}
+.wrapper{
+    background: none;
+}
+#rightCol {
+float: right;
+width: 720px;
+line-height: 1.2em;
+}
+h1.myTitle {
+color: #55B4FD;
+font-size: 22px!important;
+margin-bottom: 30px;
+}
+.rightCol p {
+line-height: 1.4em;
+margin-top: 30px;
+}
+
+a.new-address {
+width: 134px;
+height: 29px;
+line-height: 29px;
+text-align: center;
+color: #555;
+background: url(../img/new-address-btn-bg.png) no-repeat;
+float: left;
+display: block;
+margin: 10px 0 20px 15px;
+}
+.rightCol h1, .rightCol h2, .rightCol h3, .rightCol h4 {
+font-weight: normal;
+margin-bottom: 5px;
+}
+.myQuiBids .myqb-auctions {
+width: 720px;
+margin: 15px 0;
+}
+a {
+color: #0486C9;
+text-decoration: none;
+}
+.myqb-auctions .addresses-head {
+-moz-border-radius: 10px 10px 0 0;
+border-radius: 10px 10px 0 0;
+-webkit-radius:10px 10px 0 0;
+position: relative;
+}
+.addresses-head {
+height: 32px;
+background: url(../img/addresses-heade-bg.png);
+}
+.bid-history-end {
+-moz-border-radius: 0 0 10px 10px;
+border-radius: 0 0 10px 10px;
+position: relative;
+}
+.bid-history-end {
+height: 48px;
+background: url(../img/bid-history-end-bg.png);
+}
+/******* HELP ****************/
+.help_contents{
+    border: 2px solid #55B4FD;
+}
+
+.pageTitleHelp a span {
+display: block;
+background: url(../img/faq.png) no-repeat 0 3px;
+padding: 12px 15px 7px 40px;
+}
+.aside p {
+text-align: center;
+padding: 10px 10px;
+}
+.aside a.support-button {
+width: 130px;
+height: 36px;
+background: #93CAF3 url(../img/bluebtn-bg.jpg) repeat-x center top;
+-moz-border-radius: 5px;
+border-radius: 5px;
+padding: 0 10px;
+margin: 0 auto;
+text-align: center;
+display: block;
+color: white;
+border: 1px solid #177FC8;
+clear: both;
+line-height: 36px;
+}
+.aside a.support-button:hover {
+background: #93CAF3 url(../img/blue-btn-hover.jpg) repeat-x center top;
+text-decoration: none;
+}
+.h-content {
+width: 720px;
+float: left;
+padding: 10px 0 30px 0;
+margin: 0 0 20px 0;
+border-bottom: solid 1px #E8E8E8;
+}
+.h-icon {
+float: left;
+width: 120px;
+text-align: center;
+padding-top: 15px;
+}
+.h-right {
+float: right;
+width: 580px;
+}
+#search-btn {
+position: relative;
+top: 5px;
+}
+/**** CONTACT SUPPORT **/
+.orangeh2{
+font-size: 22px;
+color: #55B4FD;
+padding-left:0px;
+padding-bottom:0px;
+}
+#contact-support form{
+margin-top:50px;
+}
+#contact-support form label {
+width: 190px;
+float: left;
+padding: 5px 0;
+margin: 0 16px 20px 0;
+text-align: right;
+display: block;
+clear: left;
+color: #575757;
+font-size: .92em;
+}
+#contact-support input[type=text] {
+float: left;
+width: 280px;
+height: 20px;
+padding: 2px;
+margin: 0 0 20px;
+}
+#contact-support textarea {
+height: 125px;
+overflow: auto;
+margin: 0;
+float: left;
+width: 280px;
+height: 150px;
+padding: 2px;
+border: 1px solid #B7B7B7;
+}
+
+#additional-support{
+margin-top:10px;
+margin-bottom:20px;
+}
+.recaptchaContainer{
+clear:both;margin-left:200px;margin-top:20px;
+}
+/*************FAQ***************/
+.help-ul {
+padding: 0!important;
+}
+.helpColumn {
+float: left;
+width: 215px;
+min-height: 150px; 
+margin: 0 20px 20px 0;
+}
+.helpColumn h3 {
+padding-bottom: 5px;
+color: #1873BD;
+font-size: 14px;
+font-weight: bold;
+font-family: helvetica,arial,sans-serif;
+}
+.response a {
+color: #0486C9;
+text-decoration: none;
+}
+.response {
+background: whiteSmoke;
+border-left: 1px solid #319AEF;
+padding: 20px;
+margin: 20px 30px;
+}
+
+.response p{
+text-align: justify;
+margin-top:10px; 
+margin-bottom:10px;
+color:#7C7C7C;
+line-height:17px;
+}
+/****************************** REGISTER ***************************/
+.upper_sign_up {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 30px;
+width: 922px;
+float: left;
+}
+.upper_sign_up_text {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+text-align: center;
+width: 922px;
+float: left;
+height: 100px;
+}
+.upper_sign_up_text span {
+text-align: center;
+width: 922px;
+float: left;
+font-style: arial;
+font-size: 34px;
+font-weight: bold;
+color: black0;
+}
+.upper_sign_up_text p {
+text-align: center;
+width: 922px;
+float: left;
+font-style: arial;
+font-size: 21px;
+font-weight: normal;
+color: black0;
+}
+.upper_sign_up_boxes {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+width: 922px;
+height: 240px;
+float: left;
+}
+.upper_sign_up_boxes ul {
+width: 922px;
+float: left;
+height: 240px;
+}
+.upper_sign_up_boxes ul .upper_sign_up_vendor {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+float: left;
+background: url('../img/i_m_bride.jpg') no-repeat top;
+width: 429px;
+height: 240px;
+display: block;
+list-style-type: none;
+}
+.upper_sign_up_boxes ul .upper_sign_up_vendor span {
+padding: 95px 0px 0px 35px;
+float: left;
+width: 235px;
+text-align: center;
+font-style: arial;
+font-size: 14px;
+font-weight: normal;
+color: black;
+}
+.upper_sign_up_boxes ul .upper_sign_up_vendor p {
+padding: 0px 0px 0px 35px;
+float: left;
+}
+.upper_sign_up_boxes ul .upper_sign_up_bride {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 15px;
+float: left;
+background: url('../img/i_m_wedding.jpg') no-repeat top;
+width: 444px;
+height: 240px;
+display: block;
+list-style-type: none;
+}
+.upper_sign_up_boxes ul .upper_sign_up_bride span {
+margin: 0px 0px 0px 0px;
+padding: 95px 0px 0px 35px;
+float: left;
+width: 235px;
+text-align: center;
+font-style: arial;
+font-size: 14px;
+font-weight: normal;
+color: black;
+}
+.upper_sign_up_boxes ul .upper_sign_up_bride p {
+padding: 0px 0px 0px 35px;
+float: left;
+}
+img[width=227] {
+width: 227px;
+}
+img[height=64] {
+height: 64px;
+}
+
+/****************************** Register Bride ******/
+.left_signup {
+background-repeat: repeat-y !important;
+padding: 0px 0px 0px 0px !important;
+margin: 10px 0px 0px 18px !important;
+}
+.topcap {
+background-repeat: no-repeat;
+width: 900px;
+padding: 5px;
+overflow: hidden;
+margin: 0px;
+}
+
+table[align=left] {
+float: left;
+}
+.formspace {
+padding: 25px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+}
+.signuptable {
+width: 650px;
+padding: 0px;
+margin: 0px 0px 0px 130px;
+}
+.signuptable tbody tr td{
+	float:left;
+	vertical-align:baseline;
+}
+.signuptable tbody tr{
+	clear:left;
+}
+.left_signup .signuptable td, .left_signup .signuptable_small td {
+padding: 0px 0px 25px 0px;
+margin: 0px 0px 0px 0px;
+border: 0px solid red;
+}
+.signuptable_txt {
+padding: 10px 8px 0px 0px !important;
+margin: 0px 20px 0px 0px;
+letter-spacing: -0.02em;
+font: arial;
+font-size: 14px;
+color: black;
+font-weight: bold;
+text-align: right;
+vertical-align: top;
+width:180px;
+}
+.fm_input_wrapper {
+width: 300px;
+height: 28px;
+background-color: white;
+float: left;
+padding:5px;
+}
+.input_txt {
+width: 290px;
+height: 25px;
+color: #333;
+margin: 4px 0 0 3px;
+font-size: 15px;
+width: 290px;
+border: 0px;
+padding-left:5px;
+}
+.nospacetd {
+padding: 0px 0px 15px 0px !important;
+margin: 0px 0px 0px 0px;
+}
+.txti {
+float: left;
+overflow: hidden;
+}
+.submitbuttnpd {
+padding: 10px 0px 20px 0px !important;
+}
+.signuptable_txt2 {
+padding: 0px 8px 0px 0px !important;
+margin: 0px 0px 0px 0px;
+letter-spacing: -0.02em;
+font: arial;
+font-size: 14px;
+color: black;
+font-weight: bold;
+text-align: right;
+}
+a.next{
+clear:both;
+float:left;
+margin: 170px 0px 0px -190px;
+height:36px;
+background: #93CAF3 url(../img/bluebtn-bg.jpg) repeat-x center top;
+-moz-border-radius:5px;
+border-radius:5px;
+padding:0 20px;
+text-align:center;
+display:block;
+float:left;
+color:white;
+border: 1px solid #177FC8;
+font-size:14px;
+line-height:36px;
+}
+a.next:hover {
+text-decoration:none;
+background: #93CAF3 url(../img/blue-btn-hover.jpg) repeat-x center top;
+}

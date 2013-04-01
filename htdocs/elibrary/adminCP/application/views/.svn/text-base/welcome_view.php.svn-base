@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="<?php echo base_url(); ?>system/application/styles/reset.css" type="text/css" />
+		<link rel="stylesheet" href="<?php echo base_url(); ?>system/application/styles/style.css" type="text/css" />
+		<!-- jQuery -->
+		<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			$(function() {
+				$('.message').hide();
+				$('.message').fadeIn(1000);
+			});
+		</script>		
+		<title><?php echo "$app_name $app_version"; ?></title>
+	</head>
+	<body>
+		<!-- The main container -->
+		<div id="container">
+			<!-- The header -->
+			<div id="header">
+				<h1 id="title"><?php echo "$app_name $app_version"; ?></h1>
+				<p id="version-codename">Codename: <?php echo $app_codename; ?></p>
+			</div>
+			<!-- The Container -->
+			<div id="content">
+				<div id="welcome">
+					<!-- Welcome message -->
+					<h2>Welcome</h2>
+					<p>Welcome to <acronym class="yellow" title="This application"><?php echo $app_name; ?></acronym>, iScaffold is an application built using <acronym class="green" title="An Open Source PHP framework">CodeIgniter</acronym> that lets you generate your basic <acronym class="blue" title="Files that handle the incoming and outgoing data">Models</acronym>, <acronym class="brown" title="These files show the actual data or output.">Views</acronym> and <acronym class="pink" title="Controllers handle the incoming requests, call models etc">Controllers</acronym> based on a given database table.</p>
+
+					<!-- How to use -->
+					<h2>How to use</h2>
+					
+					<p>Using <acronym class="yellow" title="This application">iScaffold</acronym> is very simple, simple click <?php echo anchor('generate/create', 'Generate',array('title' => 'Generate the data','id' => 'generate-link')) ?>.</p>
+					
+					<!-- Important notice -->
+					<h2>Important</h2>
+
+					<div id="<?php echo $message_id; ?>" class="message">
+						<p><?php echo $dir_message; ?></p>	
+					</div>
+				
+				</div>
+			</div>
+			<!-- The footer -->
+			<div id="footer">
+				<p>&#169;Copyright 2009 -  &#214;m&#252;r Yolcu  &#73;skender and Yorick Peterse. All rights reserved<br />This application is powered by CodeIgniter</p>
+			</div>
+		</div>
+	</body>
+</html>

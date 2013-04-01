@@ -1,0 +1,13 @@
+            <label class="desc">{ $books_fields.book_Date_Inserted }</label>
+    		<div>
+<input class="field text medium" type="text" maxlength="255" value="{ $books_data.book_Date_Inserted }" name="book_Date_Inserted" id="demo1" OnClick = "javascript:NewCal('demo1','ddmmmyyyy',true,12);" /><a href="javascript:NewCal('demo1','ddmmmyyyy',true,12)" style="width:350px;"><img src="http://localhost/elibrary/admincp/application/images/calendar.png" class="icon" alt="Pick date." /></a>
+		<script type="text/javascript" src="admincp/js/main.js"></script>
+
+    		      <label>Insertion/Modification Date</label>
+    			<script type="text/javascript">
+					var Cdate = new Date();
+					document.getElementById("demo1").value = Cdate.toLocaleString();					
+    			</script>		
+   	       	
+    		</div>
+    		<p class="instruct">Date Inserted - don't insert manually select it from new windows</p>

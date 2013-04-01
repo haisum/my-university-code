@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+	#Options +FollowSymlinks
+	RewriteEngine on
+	RewriteCond %{HTTP_HOST} ^(www\.projectsq\.com)?$
+	RewriteRule ^(.*)$ http://projectsq.com/weddingprice/$1 [R=301,L]
+	ErrorDocument 404 /weddingprice/page-not-found.php
+ </IfModule>
+
+

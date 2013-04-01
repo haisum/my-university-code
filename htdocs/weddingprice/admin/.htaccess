@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+	#Options +FollowSymlinks
+	RewriteEngine on
+	ErrorDocument 404 /weddingprice/admin/home.php
+ </IfModule>
+
+

@@ -1,0 +1,1 @@
+<?phpdefine('URL', 'http://localhost/shopping/');define('ADMIN', 'anum');define('ADMIN_PASSWORD', 'qwerty');define('DBNAME' , 'myshoppingcart');define('USER' , 'root');define('PASSWORD' , '');mysql_connect('localhost', USER, PASSWORD);mysql_select_db(DBNAME);?>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<friends>
+	<friend>
+		<name>Haisum</name>
+		<picture>samplePic1.jpg</picture>
+	</friend>
+	<friend>
+		<name>Haisum</name>
+		<picture>samplePic2.jpg</picture>
+	</friend>
+	<friend>
+		<name>Haisum</name>
+		<picture>samplePic3.jpg</picture>
+	</friend>
+	<friend>
+		<name>Haisum</name>
+		<picture>samplePic4.jpg</picture>
+	</friend>
+	<friend>
+		<name>Haisum</name>
+		<picture>samplePic5.jpg</picture>
+	</friend>
+</friends>

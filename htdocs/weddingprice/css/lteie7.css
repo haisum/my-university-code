@@ -1,0 +1,21 @@
+#main_navigation_container {
+    height: 30px;
+}
+#footer_container,#header_container,#main_navigation_container,#background
+{
+    width: 100%;
+}
+#search_click,#search_button{
+    height: 29px;
+}
+#wrapper{  
+}
+#search-bar form div.form-container {
+    height: 30px;
+}
+.submenu,.popular_cats_li { display:-moz-inline-box; -moz-box-orient:vertical;
+            display:inline-block; vertical-align:top; word-wrap:break-word; }
+* html .submenu ,.popular_cats_li { display:inline; }
+* + html .submenu ,.popular_cats_li { display:inline; }
+* html .submenu  {  }
+.submenu  > *,.popular_cats_li   > *{ display:table; table-layout:fixed;  overflow:hidden; }

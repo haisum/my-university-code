@@ -1,0 +1,40 @@
+.messagesContainer{
+	float:left; clear:left;
+	width: 100%;
+	margin:0 auto;
+}
+.messageDiv{
+	padding:10px 5px 10px 10px;
+	border-bottom: 1px solid #e9e9e9;
+	margin-top:10px;
+	float:left;
+	clear:left;
+}
+.messageDetail{
+	float:left;
+	width: 450px;
+}
+
+.fromPic{
+	float:left;
+	width: 60px;
+}
+.fromName{
+	float:left;	
+}
+.messageContent{
+	clear:left;
+	float:left;
+	font-style:italic;
+}
+.dateRecieved{
+	float:right;
+	width:170px;
+	text-align:right;
+}
+.messageDiv.unread{
+	font-weight:bold;
+}
+.messageAnchor:hover{
+background-color: #eeeff4;
+}

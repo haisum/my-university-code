@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML Config File for beat your friend Facebook App
+	 Position determines where and how profile picture will be placed on stage during a level
+	 More positions mean more random appearance of image
+ -->
+<config>
+	<levels>
+		<level name="Cloud War" imageURL="clouds.jpg">							
+			<position>
+				<x>137</x>
+				<y>100</y>
+				<rotation>0</rotation>
+			</position>
+			<position>
+				<x>281</x>
+				<y>24</y>
+				<rotation>0</rotation>
+			</position>
+			<position>
+				<x>402</x>
+				<y>102</y>
+				<rotation>0</rotation>
+			</position>
+		</level>
+		<level name="What's Behind Curtain" imageURL="curtain.jpg">
+			<position>
+				<x>270</x>
+				<y>110</y>
+				<rotation>0</rotation>
+			</position>
+			<position>
+				<x>438</x>
+				<y>233</y>
+				<rotation>0</rotation>
+			</position>
+			<position>
+				<x>386</x>
+				<y>131</y>
+				<rotation>-32.9</rotation>
+			</position>
+			<position>
+				<x>94</x>
+				<y>128</y>
+				<rotation>-56</rotation>
+			</position>
+		</level>
+	</levels>
+	<weapons>
+		<weapon name="Shoe">
+			<startImage>boot.png</startImage>
+			<endImage>puff.png</endImage>
+		</weapon>	
+		<weapon name="Egg">
+			<startImage>egg.png</startImage>
+			<endImage>breakEgg.png</endImage>
+		</weapon>
+	</weapons>
+</config>

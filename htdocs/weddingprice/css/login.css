@@ -1,0 +1,169 @@
+.loginTitle {
+display:block;
+background:url(../img/user-login.png) no-repeat 0 3px;
+padding:12px 15px 7px 40px;
+}
+
+h1.pageTitle {
+margin-top:-15px;
+}
+
+.content {
+padding:15px;
+}
+
+.content h2 {
+font-size:22px;
+color:#F17622;
+padding-left:0;
+}
+
+.left-half {
+float:left;
+width:450px;
+}
+
+#register-now {
+height:36px;
+background: #93CAF3 url(../img/bluebtn-bg.jpg) repeat-x center top;
+-moz-border-radius:5px;
+border-radius:5px;
+padding:0 20px;
+text-align:center;
+display:block;
+float:left;
+color:white;
+border: 1px solid #177FC8;
+font-size:14px;
+line-height:36px;
+margin-top:15px;
+clear:both;
+}
+
+.right-half {
+float:right;
+width:450px;
+}
+
+.login {
+background:#F7F7F7;
+border:1px solid #DBDBDB;
+padding:30px;
+-moz-border-radius:10px;
+border-radius:10px;
+}
+
+.login form {
+width:350px;
+margin:0 auto;
+}
+
+.login input,.registerTxt {
+float:right;
+margin-bottom:10px;
+clear:right;
+padding:5px;
+color:#555;
+border-radius:5px;
+-moz-border-radius:5px;
+width:200px;
+}
+
+.error {
+background:#FBF0EE url(../img/error.png) no-repeat 5px 10px;
+color:#555;
+font-weight:bold;
+border:1px solid #EFD6D1;
+padding:10px 10px 10px 30px;
+line-height:18px;
+margin-bottom:20px;
+}
+
+.login label {
+float:left;
+display:block;
+clear:left;
+height:30px;
+padding:5px 0 0;
+}
+
+.login .login-links {
+clear:both;
+padding-left:140px;
+font-size:10px;
+}
+
+.login-links li {
+margin-bottom:10px;
+float:left;
+clear:left;
+}
+
+.login-links .signup {
+float:right;
+clear:right;
+margin-top:-10px;
+}
+
+.login-links a {
+color:#0486C9;
+text-decoration:none;
+}
+
+.login-links a:hover {
+text-decoration:underline;
+}
+
+.login .button-box {
+float:right;
+}
+
+
+
+.registerTxt {
+float:left;
+margin-top:35px;
+width:250px;
+}
+
+.contactIcon {
+background-image:url(../img/contact.png);
+}
+
+#faq-wrap {
+margin:32px 0;
+}
+
+#contact-support h3 {
+text-indent:0;
+padding:0;
+margin:0;
+color:#393939;
+font-weight:normal;
+font-size:19px;
+background:none repeat scroll 0 0 transparent;
+border:none;
+font-family:Verdana,tahoma,arial,sans-serif;
+}
+#loginButton{
+width: 180px;
+color: #fff; 
+height: 38px; 
+float: left; 
+margin: 0px; 
+clear: both; 
+}
+.login .button:hover,#register-now:hover {
+text-decoration:none;
+background: #93CAF3 url(../img/blue-btn-hover.jpg) repeat-x center top;
+}
+#resetBtn{
+margin: 0;
+height: 38px;
+color: white;
+width: 170px;
+}
+#changePassBtn{
+	margin:0;
+	height:38px;
+}

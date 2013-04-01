@@ -1,0 +1,152 @@
+body{	
+	font:0.8em/145% 'Trebuchet MS',helvetica,arial,verdana;
+	color: #333;
+}
+a{
+	text-decoration:none;
+	color:#39C1DB;
+}
+a:hover{
+	text-decoration:underline;
+}
+#header{
+	margin:10px 0px 20px 0px;
+	
+}
+#footer{
+	clear:both;
+	text-align:center;
+	padding:10px;
+	background-color:#EFF4FB;
+	margin-top:40px;
+	width:880px;
+}
+#container{
+	width:960px;
+	margin:30px auto;
+}
+#left {
+	float:left;
+	width:200px;	
+}
+
+#center{
+	float:left;
+	margin-left:20px;
+	width:500px;
+}
+
+#right{
+	float:right;
+	margin-right:60px;
+	width:175px;
+	height:150px;
+	background-color:#EFF4FB;
+	border:1px solid #ccc;
+}
+
+/*** Table ***/
+
+table {
+		border-collapse:collapse;
+		background:#EFF4FB url(../images/teaser.gif) repeat-x;
+		border-left:1px solid #686868;
+		border-right:1px solid #686868;
+}
+
+td, th {
+		padding:5px;
+}
+
+caption {
+		padding: 0 0 .5em 0;
+		text-align: left;
+		font-size: 1.4em;
+		font-weight: bold;
+		text-transform: uppercase;
+		color: #333;
+		background: transparent;
+}
+
+/* =links
+----------------------------------------------- */
+table{	
+		width:390px;
+}
+table a {
+		color:#950000;
+		text-decoration:none;
+}
+
+table a:link {}
+
+table a:visited {
+		font-weight:normal;
+		color:#666;
+		text-decoration: line-through;
+}
+
+table a:hover {
+		border-bottom: 1px dashed #bbb;
+}
+
+/* =head =foot
+----------------------------------------------- */
+
+thead th, tfoot th, tfoot td {
+		background:#333 url(../images/llsh.gif) repeat-x;
+		color:#fff
+}
+
+tfoot td {
+		text-align:right
+}
+
+/* =body
+----------------------------------------------- */
+
+tbody th, tbody td {
+		border-bottom: dotted 1px #333;
+}
+
+tbody th {
+		white-space: nowrap;
+}
+
+tbody th a {
+		color:#333;
+}
+
+.odd {}
+
+tbody tr:hover {
+		background:#fafafa
+}
+
+/****Table****/
+/****** Inputs ****/
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+}
+.input:hover {
+    border: 1px solid #f00;
+    background: #ff6;
+}
+.button {
+    border: 1px solid #006;
+    background: #ccf;
+}
+.button:hover {
+    border: 1px solid #f00;
+    background: #eef;
+}
+label {
+    display: block;
+    width: 150px;
+    float: left;
+    margin: 2px 4px 6px 4px;
+    text-align: right;
+}
+br { clear: left; }
+/*** inputs **/
